@@ -31,4 +31,6 @@ kubectl apply -f hazelcast.yaml
 ## Deployment Patterns
 
 - SideCar
-![K8s SideCar](./cas-k8s.png)
+![K8s SideCar](./k8s-cas.png) 
+
+- ..
